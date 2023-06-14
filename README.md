@@ -1,4 +1,4 @@
-# ADXXXXX-Template
+# AD7SGPR
 
 ![製品画像]()
 
