@@ -9,6 +9,8 @@
 - [YouTube登録者数取得App](https://bit-trade-one.github.io/AD7SGPR-youtubeCh/index.html)
 - [グーグルスプレッドシート取得App]()
 
+## ターミナルからの使い方
+(工事中)
 ## リンク
 - [製品HPリンク](http://bit-trade-one.co.jp/) 
 
