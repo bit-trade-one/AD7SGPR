@@ -6,7 +6,7 @@
 
 本ページから各種AD7SG2040Uのリポジトリへ飛ぶことが出来ます。
 
-## WEB App
+## AD7SGPR表示用WEB App
 - [AD7SGPR シリアル通信アプリ](https://bit-trade-one.github.io/AD7SGPR-SCWA/)
 - [YouTube登録者数取得App](https://bit-trade-one.github.io/AD7SGPR-youtubeCh/index.html)
 - [グーグルスプレッドシート取得App]()
