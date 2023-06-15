@@ -14,7 +14,7 @@
 ## ターミナル(Tera Term)からの使い方
 <details><summary>表示/非表示</summary>
   
-1.Tera Termを起動しシリアルを選択。AD7SGPRのCOMポートを選択する <br> 
+1.PCとAD7SGPRをUSBケーブルで接続し、Tera Termを起動してシリアルを選択。AD7SGPRのCOMポートを選択する <br> 
 <img src="https://github.com/bit-trade-one/AD7SGPR/assets/85532743/b760cfb6-544b-4b86-be4c-7758c659f6cc" alt="image"><br>
 
 
