@@ -4,7 +4,7 @@
 
 (製品説明後日記載)
 
-本ページから各種AD7SG2040Uのリポジトリへ飛ぶことが出来ます。
+本ページから各種AD7SGPRのリポジトリへ飛ぶことが出来ます。
 
 ## AD7SGPR表示用WEB App
 - [AD7SGPR シリアル通信アプリ](https://bit-trade-one.github.io/AD7SGPR-SCWA/)
