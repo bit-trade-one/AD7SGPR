@@ -9,7 +9,7 @@
 ## AD7SGPR表示用WEB App
 - [AD7SGPR シリアル通信アプリ](https://bit-trade-one.github.io/AD7SGPR-SCWA/)
 - [YouTube登録者数取得App](https://bit-trade-one.github.io/AD7SGPR-youtubeCh/index.html)
-- [グーグルスプレッドシート取得App]()
+- [グーグルスプレッドシート取得App](https://bit-trade-one.github.io/AD7SGPR-GSS/)
 
 ## ターミナル(Tera Term)からの使い方
 <details><summary>表示/非表示</summary>
