@@ -12,6 +12,8 @@
 - [グーグルスプレッドシート取得App]()
 
 ## ターミナル(Tera Term)からの使い方
+<details><summary>表示/非表示</summary>
+  
 1.Tera Termを起動しシリアルを選択。AD7SGPRのCOMポートを選択する  
 ![image](https://github.com/bit-trade-one/AD7SGPR/assets/85532743/b760cfb6-544b-4b86-be4c-7758c659f6cc)
 
@@ -24,6 +26,7 @@
 4.AD7SGPRに送る文字を入力していく(エンターを押して応答があるまで何も表示されません。)
 ![image](https://github.com/bit-trade-one/AD7SGPR/assets/85532743/b761aa82-17e3-4611-96d4-4d8562b9a1c8)
 
+</details>
 
 ## 他エンジニアリング情報
 - [ファームウェアリポジトリ](https://github.com/bit-trade-one/AD7SGPR-FW)
