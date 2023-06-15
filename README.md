@@ -11,6 +11,10 @@
 
 ## ターミナルからの使い方
 (工事中)
+
+## 他エンジニアリング情報
+- [ファームウェアリポジトリ](https://github.com/bit-trade-one/AD7SGPR-FW)
+  
 ## リンク
 - [製品HPリンク](http://bit-trade-one.co.jp/) 
 
