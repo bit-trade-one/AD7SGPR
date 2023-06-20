@@ -27,7 +27,6 @@
 
 </details>
 
-
 ## AD7SGPR表示用サンプルWEB App
 - [AD7SGPR シリアル通信アプリ](https://bit-trade-one.github.io/AD7SGPR-SCWA/)
 - [YouTube登録者数取得App](https://bit-trade-one.github.io/AD7SGPR-youtubeCh/index.html)
