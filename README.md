@@ -6,11 +6,6 @@
 シリアル通信で文字列を送るだけで値を表示できる７セグメントディスプレイ AD7SGPRのリポジトリです。  
 本ページから各種App等AD7SGPRのリポジトリへ飛ぶことが出来ます。
 
-## AD7SGPR表示用サンプルWEB App
-- [AD7SGPR シリアル通信アプリ](https://bit-trade-one.github.io/AD7SGPR-SCWA/)
-- [YouTube登録者数取得App](https://bit-trade-one.github.io/AD7SGPR-youtubeCh/index.html)
-- [グーグルスプレッドシート取得App](https://bit-trade-one.github.io/AD7SGPR-GSS/)
-
 ## ターミナル(Tera Term)からの使い方
 <details><summary>表示/非表示</summary>
   
@@ -31,6 +26,12 @@
 
 
 </details>
+
+
+## AD7SGPR表示用サンプルWEB App
+- [AD7SGPR シリアル通信アプリ](https://bit-trade-one.github.io/AD7SGPR-SCWA/)
+- [YouTube登録者数取得App](https://bit-trade-one.github.io/AD7SGPR-youtubeCh/index.html)
+- [グーグルスプレッドシート取得App](https://bit-trade-one.github.io/AD7SGPR-GSS/)
 
 ## ハードウェアエンジニアリング情報
 - [回路・PCB](https://github.com/bit-trade-one/AD7SGPR/tree/master/Schematics)
