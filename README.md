@@ -43,7 +43,8 @@
 - [グーグルスプレッドシート取得Appリポジトリ](https://github.com/bit-trade-one/AD7SGPR-GSS)
   
 ## リンク
-- [製品HPリンク](http://bit-trade-one.co.jp/) 
+- [製品HPリンク](http://bit-trade-one.co.jp/)
+- [Q&A](FAQ.md) 
 
 ## 使用例
 - [(Qiita)東京の気温を現実の7セグで表示するWEBAppをGPT-4と作る](https://qiita.com/T-Oda-BTO/private/9eaa449083883b6a4b0d)
