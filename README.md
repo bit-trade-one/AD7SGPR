@@ -37,6 +37,10 @@
 
 ## 他エンジニアリング情報
 - [ファームウェアリポジトリ](https://github.com/bit-trade-one/AD7SGPR-FW)
+
+- [AD7SGPR シリアル通信アプリリポジトリ](https://github.com/bit-trade-one/AD7SGPR-SCWA)
+- [YouTube登録者数取得Appリポジトリ](https://github.com/bit-trade-one/AD7SGPR-youtubeCh)
+- [グーグルスプレッドシート取得Appリポジトリ](https://github.com/bit-trade-one/AD7SGPR-GSS)
   
 ## リンク
 - [製品HPリンク](http://bit-trade-one.co.jp/) 
