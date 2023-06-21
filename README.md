@@ -13,6 +13,9 @@
 - [詳細を読む](UseFromTerminal.md)
 
 ## 値表示用サンプルWEB App
+
+※2023/06/21現在スマホからはご利用できません。 PC+Chromeよりご利用ください。  
+
 - [AD7SGPR シリアル通信アプリ](https://bit-trade-one.github.io/AD7SGPR-SCWA/) [  [-使用方法]](https://bit-trade-one.github.io/AD7SGPR-SCWA/10manual.html)
 - [YouTube登録者数取得App](https://bit-trade-one.github.io/AD7SGPR-youtubeCh/index.html) [  [-使用方法]](https://bit-trade-one.github.io/AD7SGPR-youtubeCh/10manual.html)
 - [グーグルスプレッドシート取得App](https://bit-trade-one.github.io/AD7SGPR-GSS/) [  [-使用方法]](https://bit-trade-one.github.io/AD7SGPR-GSS/10manual.html)
