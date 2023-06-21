@@ -67,5 +67,3 @@
 | E2           | Over 8 length<br>8文字を超えてしまっているので表示できない       |
 | E3           | Need 16 hex digits<br>16桁の16進数が必要                          |
 | E4           | Brightness out of range<br>輝度が範囲外                           |
-
-[前のページに戻る](README.md)
