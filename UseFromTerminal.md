@@ -9,7 +9,7 @@
 
 
 3.改行コードの送信側をCR+LFにしてOKを押す  <br>
-<img src="https://github.com/bit-trade-one/AD7SGPR/assets/85532743/9c5f0a20-c1e1-4f87-a9f4-58be450e1e43" alt="image"><br><br>
+<img src="https://github.com/bit-trade-one/AD7SGPR/assets/85532743/3edd03b5-1c23-421c-9bff-ab8d1dcc2e1a" alt="image"><br><br>
 
 
 4.AD7SGPRに送る文字を入力していく(エンターを押して応答があるまで何も表示されません。)<br>
