@@ -49,14 +49,14 @@
 | 10           | e                    |
 | ...          | ...                  |
 | 7F           | a, b, c, d, e, g     |
-| 80           | PD (decimal point)   |
-| 81           | a, PD                |
-| 82           | b, PD                |
-| 83           | a, b, PD             |
-| 84           | c, PD                |
+| 80           | D.P (decimal point)   |
+| 81           | a, D.P                |
+| 82           | b, D.P                |
+| 83           | a, b, D.P             |
+| 84           | c, D.P                |
 | ...          | ...                  |
-| FE           | a, b, c, d, e, g, PD |
-| FF           | a, b, c, d, e, f, g, PD |
+| FE           | a, b, c, d, e, g, D.P |
+| FF           | a, b, c, d, e, f, g, D.P |
 
 ## エラーコード内容
 
