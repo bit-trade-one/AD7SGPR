@@ -70,7 +70,8 @@ AD7SGPRに送信した文字列を7セグメントディスプレイに表示す
 | @HEXFF00000000000000| rxData:@HEXFF00000000000000 | 8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||
 |@HEX|rxData:@HEX<br>E3: Need 16 hex digits||エラーコード：@HEXのあとに続く文字が16桁ではない|
 
-### @HEXコマンドの個別制御について解説
+<details><summary>もっと詳しい解説</summary><div>
+
 16桁の16進数でセグメントの点灯を制御します。  
 2桁づつがそれぞれのセグメントへの指示となっており、特殊な点灯が可能です。
 
@@ -337,6 +338,7 @@ AD7SGPRに送信した文字列を7セグメントディスプレイに表示す
 | FE           | a, b, c, d, e, f, g, D.P    |
 | FF           | a, b, c,d, e, f, g, D.P    |
 
+</details><br>
 
 ---
 
