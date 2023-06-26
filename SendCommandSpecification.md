@@ -16,8 +16,8 @@ Firmware Version 2.3について記述
   - [@CLR](#clr)
   - [@ANI](#ani)
   - [@7SG](#7sg)
-  - [@BRI](#BRI)
-  - [@BRR](#BRR)
+  - [@BRI](#bri)
+  - [@BRR](#brr)
  - [エラーコード一覧](#エラーコード一覧)
 
 <br><br>
