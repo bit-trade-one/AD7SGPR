@@ -11,8 +11,11 @@
 <br><br>
 
 # 表示のために使うツール
-## AD7SGPR表示用サンプルWEB App
 
+表示ツールには複数の選択肢があります。  
+弊社作成のサンプルWEBAppや汎用ターミナルソフトが使用可能です。  
+
+## AD7SGPR表示用サンプルWEB App
 ※2023/06/21現在スマホからはご利用できません。 PC+Chromeよりご利用ください。  
 
 - [AD7SGPR シリアル通信アプリ](https://bit-trade-one.github.io/AD7SGPR-SCWA/) [  [-使用方法]](https://bit-trade-one.github.io/AD7SGPR-SCWA/10manual.html)
