@@ -1,7 +1,7 @@
 # AD7SGPR
 
 シリアル通信で文字列を送るだけで値を表示できる７セグメントディスプレイ AD7SGPRのリポジトリです。   
-[ターミナルソフト](#ターミナルソフトtera-termからの使い方)や[サンプルWEBApp](#ad7sgpr表示用サンプルweb-app)から7セグの表示を制御できます。  
+[サンプルWEBApp](#ad7sgpr表示用サンプルweb-app)や[ターミナルソフト](#ターミナルソフトtera-termからの使い方)から7セグの表示を制御できます。  
 
 <img src="https://github.com/bit-trade-one/AD7SGPR/assets/85532743/b7ca2699-90d4-4539-9e4d-cd95bec13ddf"
         alt="AD7SGPR接続系統図" width="680px">
