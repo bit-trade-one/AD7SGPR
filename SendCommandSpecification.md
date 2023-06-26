@@ -104,7 +104,7 @@ AD7SGPRに送信した文字列を7セグメントディスプレイに表示す
 |@ANI1|rxData:@ANI1<br>Animation1||トランジションをパターン1に設定(数字によるスロット風)|
 |@ANI2|rxData:@ANI2<br>Animation2||トランジションをパターン2に設定(セグメントの回転)|
 |||||
-||rxData:@ANIx<br>No animation||数字が範囲外の場合でもアニメーションをなしに設定します|
+|@ANI3|rxData:@ANIx<br>No animation||数字が範囲外の場合でもアニメーションをなしに設定します|
 
 
 ---
