@@ -65,7 +65,7 @@ AD7SGPRは本体ボタン操作と、シリアル経由のコマンドによる2
 - [YouTube登録者数取得Appリポジトリ](https://github.com/bit-trade-one/AD7SGPR-youtubeCh)(Assembly Desk License)
 - [グーグルスプレッドシート取得Appリポジトリ](https://github.com/bit-trade-one/AD7SGPR-GSS)(Assembly Desk License)
 
-- [7sgSimWebApp](https://t-oda-bto.github.io/7sgSimWebApp/)(AD7SGPRドキュメント生成用の7セグ画像WEBシミュ)(MIT License)
+- [7sgSimWebApp](https://t-oda-bto.github.io/7sgSimWebApp/)(AD7SGPRドキュメント用に作成した7セグ画像WEBシミュ)(MIT License)
 
   
 
