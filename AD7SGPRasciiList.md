@@ -96,5 +96,3 @@
 | \|            |<img src="7sgAsciiImages/seven_segment_display (83).png" alt="Alt text" style="width:25px;">          |
 | }             |<img src="7sgAsciiImages/seven_segment_display (83).png" alt="Alt text" style="width:25px;">          |
 | ~             |<img src="7sgAsciiImages/seven_segment_display (83).png" alt="Alt text" style="width:25px;">          |
-  
-[7sgSimWebApp](https://github.com/T-Oda-BTO/7sgSimWebApp)を使用し画像を生成しました。
