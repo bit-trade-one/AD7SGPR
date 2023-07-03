@@ -19,5 +19,5 @@
 
 
 6.AD7SGPRに送る文字を入力していく(エンターを押して応答があるまで何も表示されません。)<br>
-送信できるコマンドについては次項を参照ください。<br>
+送信できるコマンドについては[こちら](SendCommandSpecification.md)を参照ください。<br>
 <img src="https://github.com/bit-trade-one/AD7SGPR/assets/85532743/b761aa82-17e3-4611-96d4-4d8562b9a1c8" alt="image"><br><br>
