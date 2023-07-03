@@ -258,5 +258,5 @@
 | FB           | a, b, d, e, f, g, D.P       |
 | FC           | c, d, e, f, g, D.P          |
 | FD           | a, c, d, e, f, g, D.P       |
-| FE           | a, b, c, d, e, f, g, D.P    |
+| FE           | b, c, d, e, f, g, D.P    |
 | FF           | a, b, c,d, e, f, g, D.P    |
