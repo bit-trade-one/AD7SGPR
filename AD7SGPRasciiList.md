@@ -1,98 +1,98 @@
-# AD7SGPRasciiの実機での表示内容
+# AD7SGPRアスキーコードの実機での表示内容
 
 | アスキーコード | 表示内容 |
 |---------------|---------|
-| !             |![Alt text](7sgAsciiImages/seven_segment_display.png)               |
-| "             |![Alt text](<7sgAsciiImages/seven_segment_display (1).png>)         |
-| #             |![Alt text](<7sgAsciiImages/seven_segment_display (2).png>)         |
-| $             |![Alt text](<7sgAsciiImages/seven_segment_display (3).png>)         |
-| %             |![Alt text](<7sgAsciiImages/seven_segment_display (4).png>)         |
-| &             |![Alt text](<7sgAsciiImages/seven_segment_display (5).png>)         |
-| '             |![Alt text](<7sgAsciiImages/seven_segment_display (6).png>)         |
-| (             |![Alt text](<7sgAsciiImages/seven_segment_display (7).png>)         |
-| )             |![Alt text](<7sgAsciiImages/seven_segment_display (8).png>)         |
-| *             |![Alt text](<7sgAsciiImages/seven_segment_display (9).png>)         |
-| +             |![Alt text](<7sgAsciiImages/seven_segment_display (10).png>)         |
-| ,             |![Alt text](<7sgAsciiImages/seven_segment_display (11).png>)         |
-| -             |![Alt text](<7sgAsciiImages/seven_segment_display (12).png>)         |
-| .             |![Alt text](<7sgAsciiImages/seven_segment_display (13).png>)         |
-| /             |![Alt text](<7sgAsciiImages/seven_segment_display (14).png>)         |
-| 0             |![Alt text](<7sgAsciiImages/seven_segment_display (15).png>)         |
-| 1             |![Alt text](<7sgAsciiImages/seven_segment_display (16).png>)         |
-| 2             |![Alt text](<7sgAsciiImages/seven_segment_display (17).png>)         |
-| 3             |![Alt text](<7sgAsciiImages/seven_segment_display (18).png>)         |
-| 4             |![Alt text](<7sgAsciiImages/seven_segment_display (19).png>)         |
-| 5             |![Alt text](<7sgAsciiImages/seven_segment_display (20).png>)         |
-| 6             |![Alt text](<7sgAsciiImages/seven_segment_display (21).png>)         |
-| 7             |![Alt text](<7sgAsciiImages/seven_segment_display (22).png>)         |
-| 8             |![Alt text](<7sgAsciiImages/seven_segment_display (23).png>)         |
-| 9             |![Alt text](<7sgAsciiImages/seven_segment_display (24).png>)         |
-| :             |![Alt text](<7sgAsciiImages/seven_segment_display (25).png>)         |
-| ;             |![Alt text](<7sgAsciiImages/seven_segment_display (26).png>)         |
-| <             |![Alt text](<7sgAsciiImages/seven_segment_display (27).png>)         |
-| =             |![Alt text](<7sgAsciiImages/seven_segment_display (28).png>)         |
-| >             |![Alt text](<7sgAsciiImages/seven_segment_display (29).png>)         |
-| ?             |![Alt text](<7sgAsciiImages/seven_segment_display (30).png>)         |
-| @             |![Alt text](<7sgAsciiImages/seven_segment_display (31).png>)         |
-| A             |![Alt text](<7sgAsciiImages/seven_segment_display (32).png>)         |
-| B             |![Alt text](<7sgAsciiImages/seven_segment_display (33).png>)         |
-| C             |![Alt text](<7sgAsciiImages/seven_segment_display (34).png>)         |
-| D             |![Alt text](<7sgAsciiImages/seven_segment_display (35).png>)         |
-| E             |![Alt text](<7sgAsciiImages/seven_segment_display (36).png>)         |
-| F             |![Alt text](<7sgAsciiImages/seven_segment_display (37).png>)         |
-| G             |![Alt text](<7sgAsciiImages/seven_segment_display (38).png>)         |
-| H             |![Alt text](<7sgAsciiImages/seven_segment_display (39).png>)         |
-| I             |![Alt text](<7sgAsciiImages/seven_segment_display (40).png>)         |
-| J             |![Alt text](<7sgAsciiImages/seven_segment_display (41).png>)         |
-| K             |![Alt text](<7sgAsciiImages/seven_segment_display (42).png>)         |
-| L             |![Alt text](<7sgAsciiImages/seven_segment_display (43).png>)         |
-| M             |![Alt text](<7sgAsciiImages/seven_segment_display (44).png>)         |
-| N             |![Alt text](<7sgAsciiImages/seven_segment_display (45).png>)         |
-| O             |![Alt text](<7sgAsciiImages/seven_segment_display (46).png>)         |
-| P             |![Alt text](<7sgAsciiImages/seven_segment_display (47).png>)         |
-| Q             |![Alt text](<7sgAsciiImages/seven_segment_display (48).png>)         |
-| R             |![Alt text](<7sgAsciiImages/seven_segment_display (50).png>)         |
-| S             |![Alt text](<7sgAsciiImages/seven_segment_display (51).png>)         |
-| T             |![Alt text](<7sgAsciiImages/seven_segment_display (52).png>)         |
-| U             |![Alt text](<7sgAsciiImages/seven_segment_display (53).png>)         |
-| V             |![Alt text](<7sgAsciiImages/seven_segment_display (54).png>)         |
-| W             |![Alt text](<7sgAsciiImages/seven_segment_display (55).png>)         |
-| X             |![Alt text](<7sgAsciiImages/seven_segment_display (56).png>)         |
-| Y             |![Alt text](<7sgAsciiImages/seven_segment_display (57).png>)         |
-| Z             |![Alt text](<7sgAsciiImages/seven_segment_display (58).png>)         |
-| [             |![Alt text](<7sgAsciiImages/seven_segment_display (59).png>)         |
-| \             |![Alt text](<7sgAsciiImages/seven_segment_display (60).png>)         |
-| ]             |![Alt text](<7sgAsciiImages/seven_segment_display (61).png>)         |
-| ^             |![Alt text](<7sgAsciiImages/seven_segment_display (62).png>)         |
-| _             |![Alt text](<7sgAsciiImages/seven_segment_display (63).png>)         |
-| `             |![Alt text](<7sgAsciiImages/seven_segment_display (64).png>)         |
-| a             |![Alt text](<7sgAsciiImages/seven_segment_display (65).png>)         |
-| b             |![Alt text](<7sgAsciiImages/seven_segment_display (66).png>)         |
-| c             |![Alt text](<7sgAsciiImages/seven_segment_display (67).png>)         |
-| d             |![Alt text](<7sgAsciiImages/seven_segment_display (68).png>)         |
-| e             |![Alt text](<7sgAsciiImages/seven_segment_display (69).png>)         |
-| f             |![Alt text](<7sgAsciiImages/seven_segment_display (70).png>)         |
-| g             |![Alt text](<7sgAsciiImages/seven_segment_display (71).png>)         |
-| h             |![Alt text](<7sgAsciiImages/seven_segment_display (72).png>)         |
-| i             |![Alt text](<7sgAsciiImages/seven_segment_display (73).png>)         |
-| j             |![Alt text](<7sgAsciiImages/seven_segment_display (74).png>)         |
-| k             |![Alt text](<7sgAsciiImages/seven_segment_display (75).png>)         |
-| l             |![Alt text](<7sgAsciiImages/seven_segment_display (76).png>)         |
-| m             |![Alt text](<7sgAsciiImages/seven_segment_display (77).png>)         |
-| n             |![Alt text](<7sgAsciiImages/seven_segment_display (78).png>)         |
-| o             |![Alt text](<7sgAsciiImages/seven_segment_display (79).png>)         |
-| p             |![Alt text](<7sgAsciiImages/seven_segment_display (80).png>)         |
-| q             |![Alt text](<7sgAsciiImages/seven_segment_display (81).png>)         |
-| r             |![Alt text](<7sgAsciiImages/seven_segment_display (82).png>)         |
-| s             |![Alt text](<7sgAsciiImages/seven_segment_display (84).png>)         |
-| t             |![Alt text](<7sgAsciiImages/seven_segment_display (85).png>)         |
-| u             |![Alt text](<7sgAsciiImages/seven_segment_display (86).png>)         |
-| v             |![Alt text](<7sgAsciiImages/seven_segment_display (86).png>)         |
-| w             |![Alt text](<7sgAsciiImages/seven_segment_display (87).png>)         |
-| x             |![Alt text](<7sgAsciiImages/seven_segment_display (88).png>)         |
-| y             |![Alt text](<7sgAsciiImages/seven_segment_display (89).png>)         |
-| z             |![Alt text](<7sgAsciiImages/seven_segment_display (90).png>)         |
-| {             |![Alt text](<7sgAsciiImages/seven_segment_display (83).png>)         |
-| \|            |![Alt text](<7sgAsciiImages/seven_segment_display (83).png>)         |
-| }             |![Alt text](<7sgAsciiImages/seven_segment_display (83).png>)         |
-| ~             |![Alt text](<7sgAsciiImages/seven_segment_display (83).png>)         |
+| !             |<img src="7sgAsciiImages/seven_segment_display.png" alt="Alt text" style="width:25px;">                |
+| "             |<img src="7sgAsciiImages/seven_segment_display (1).png" alt="Alt text" style="width:25px;">          |
+| #             |<img src="7sgAsciiImages/seven_segment_display (2).png" alt="Alt text" style="width:25px;">          |
+| $             |<img src="7sgAsciiImages/seven_segment_display (3).png" alt="Alt text" style="width:25px;">          |
+| %             |<img src="7sgAsciiImages/seven_segment_display (4).png" alt="Alt text" style="width:25px;">          |
+| &             |<img src="7sgAsciiImages/seven_segment_display (5).png" alt="Alt text" style="width:25px;">          |
+| '             |<img src="7sgAsciiImages/seven_segment_display (6).png" alt="Alt text" style="width:25px;">          |
+| (             |<img src="7sgAsciiImages/seven_segment_display (7).png" alt="Alt text" style="width:25px;">          |
+| )             |<img src="7sgAsciiImages/seven_segment_display (8).png" alt="Alt text" style="width:25px;">          |
+| *             |<img src="7sgAsciiImages/seven_segment_display (9).png" alt="Alt text" style="width:25px;">          |
+| +             |<img src="7sgAsciiImages/seven_segment_display (10).png" alt="Alt text" style="width:25px;">          |
+| ,             |<img src="7sgAsciiImages/seven_segment_display (11).png" alt="Alt text" style="width:25px;">          |
+| -             |<img src="7sgAsciiImages/seven_segment_display (12).png" alt="Alt text" style="width:25px;">          |
+| .             |<img src="7sgAsciiImages/seven_segment_display (13).png" alt="Alt text" style="width:25px;">          |
+| /             |<img src="7sgAsciiImages/seven_segment_display (14).png" alt="Alt text" style="width:25px;">          |
+| 0             |<img src="7sgAsciiImages/seven_segment_display (15).png" alt="Alt text" style="width:25px;">          |
+| 1             |<img src="7sgAsciiImages/seven_segment_display (16).png" alt="Alt text" style="width:25px;">          |
+| 2             |<img src="7sgAsciiImages/seven_segment_display (17).png" alt="Alt text" style="width:25px;">          |
+| 3             |<img src="7sgAsciiImages/seven_segment_display (18).png" alt="Alt text" style="width:25px;">          |
+| 4             |<img src="7sgAsciiImages/seven_segment_display (19).png" alt="Alt text" style="width:25px;">          |
+| 5             |<img src="7sgAsciiImages/seven_segment_display (20).png" alt="Alt text" style="width:25px;">          |
+| 6             |<img src="7sgAsciiImages/seven_segment_display (21).png" alt="Alt text" style="width:25px;">          |
+| 7             |<img src="7sgAsciiImages/seven_segment_display (22).png" alt="Alt text" style="width:25px;">          |
+| 8             |<img src="7sgAsciiImages/seven_segment_display (23).png" alt="Alt text" style="width:25px;">          |
+| 9             |<img src="7sgAsciiImages/seven_segment_display (24).png" alt="Alt text" style="width:25px;">          |
+| :             |<img src="7sgAsciiImages/seven_segment_display (25).png" alt="Alt text" style="width:25px;">          |
+| ;             |<img src="7sgAsciiImages/seven_segment_display (26).png" alt="Alt text" style="width:25px;">          |
+| <             |<img src="7sgAsciiImages/seven_segment_display (27).png" alt="Alt text" style="width:25px;">          |
+| =             |<img src="7sgAsciiImages/seven_segment_display (28).png" alt="Alt text" style="width:25px;">          |
+| >             |<img src="7sgAsciiImages/seven_segment_display (29).png" alt="Alt text" style="width:25px;">          |
+| ?             |<img src="7sgAsciiImages/seven_segment_display (30).png" alt="Alt text" style="width:25px;">          |
+| @             |<img src="7sgAsciiImages/seven_segment_display (31).png" alt="Alt text" style="width:25px;">          |
+| A             |<img src="7sgAsciiImages/seven_segment_display (32).png" alt="Alt text" style="width:25px;">          |
+| B             |<img src="7sgAsciiImages/seven_segment_display (33).png" alt="Alt text" style="width:25px;">          |
+| C             |<img src="7sgAsciiImages/seven_segment_display (34).png" alt="Alt text" style="width:25px;">          |
+| D             |<img src="7sgAsciiImages/seven_segment_display (35).png" alt="Alt text" style="width:25px;">          |
+| E             |<img src="7sgAsciiImages/seven_segment_display (36).png" alt="Alt text" style="width:25px;">          |
+| F             |<img src="7sgAsciiImages/seven_segment_display (37).png" alt="Alt text" style="width:25px;">          |
+| G             |<img src="7sgAsciiImages/seven_segment_display (38).png" alt="Alt text" style="width:25px;">          |
+| H             |<img src="7sgAsciiImages/seven_segment_display (39).png" alt="Alt text" style="width:25px;">          |
+| I             |<img src="7sgAsciiImages/seven_segment_display (40).png" alt="Alt text" style="width:25px;">          |
+| J             |<img src="7sgAsciiImages/seven_segment_display (41).png" alt="Alt text" style="width:25px;">          |
+| K             |<img src="7sgAsciiImages/seven_segment_display (42).png" alt="Alt text" style="width:25px;">          |
+| L             |<img src="7sgAsciiImages/seven_segment_display (43).png" alt="Alt text" style="width:25px;">          |
+| M             |<img src="7sgAsciiImages/seven_segment_display (44).png" alt="Alt text" style="width:25px;">          |
+| N             |<img src="7sgAsciiImages/seven_segment_display (45).png" alt="Alt text" style="width:25px;">          |
+| O             |<img src="7sgAsciiImages/seven_segment_display (46).png" alt="Alt text" style="width:25px;">          |
+| P             |<img src="7sgAsciiImages/seven_segment_display (47).png" alt="Alt text" style="width:25px;">          |
+| Q             |<img src="7sgAsciiImages/seven_segment_display (48).png" alt="Alt text" style="width:25px;">          |
+| R             |<img src="7sgAsciiImages/seven_segment_display (50).png" alt="Alt text" style="width:25px;">          |
+| S             |<img src="7sgAsciiImages/seven_segment_display (51).png" alt="Alt text" style="width:25px;">          |
+| T             |<img src="7sgAsciiImages/seven_segment_display (52).png" alt="Alt text" style="width:25px;">          |
+| U             |<img src="7sgAsciiImages/seven_segment_display (53).png" alt="Alt text" style="width:25px;">          |
+| V             |<img src="7sgAsciiImages/seven_segment_display (54).png" alt="Alt text" style="width:25px;">          |
+| W             |<img src="7sgAsciiImages/seven_segment_display (55).png" alt="Alt text" style="width:25px;">          |
+| X             |<img src="7sgAsciiImages/seven_segment_display (56).png" alt="Alt text" style="width:25px;">          |
+| Y             |<img src="7sgAsciiImages/seven_segment_display (57).png" alt="Alt text" style="width:25px;">          |
+| Z             |<img src="7sgAsciiImages/seven_segment_display (58).png" alt="Alt text" style="width:25px;">          |
+| [             |<img src="7sgAsciiImages/seven_segment_display (59).png" alt="Alt text" style="width:25px;">          |
+| \             |<img src="7sgAsciiImages/seven_segment_display (60).png" alt="Alt text" style="width:25px;">          |
+| ]             |<img src="7sgAsciiImages/seven_segment_display (61).png" alt="Alt text" style="width:25px;">          |
+| ^             |<img src="7sgAsciiImages/seven_segment_display (62).png" alt="Alt text" style="width:25px;">          |
+| _             |<img src="7sgAsciiImages/seven_segment_display (63).png" alt="Alt text" style="width:25px;">          |
+| `             |<img src="7sgAsciiImages/seven_segment_display (64).png" alt="Alt text" style="width:25px;">          |
+| a             |<img src="7sgAsciiImages/seven_segment_display (65).png" alt="Alt text" style="width:25px;">          |
+| b             |<img src="7sgAsciiImages/seven_segment_display (66).png" alt="Alt text" style="width:25px;">          |
+| c             |<img src="7sgAsciiImages/seven_segment_display (67).png" alt="Alt text" style="width:25px;">          |
+| d             |<img src="7sgAsciiImages/seven_segment_display (68).png" alt="Alt text" style="width:25px;">          |
+| e             |<img src="7sgAsciiImages/seven_segment_display (69).png" alt="Alt text" style="width:25px;">          |
+| f             |<img src="7sgAsciiImages/seven_segment_display (70).png" alt="Alt text" style="width:25px;">          |
+| g             |<img src="7sgAsciiImages/seven_segment_display (71).png" alt="Alt text" style="width:25px;">          |
+| h             |<img src="7sgAsciiImages/seven_segment_display (72).png" alt="Alt text" style="width:25px;">          |
+| i             |<img src="7sgAsciiImages/seven_segment_display (73).png" alt="Alt text" style="width:25px;">          |
+| j             |<img src="7sgAsciiImages/seven_segment_display (74).png" alt="Alt text" style="width:25px;">          |
+| k             |<img src="7sgAsciiImages/seven_segment_display (75).png" alt="Alt text" style="width:25px;">          |
+| l             |<img src="7sgAsciiImages/seven_segment_display (76).png" alt="Alt text" style="width:25px;">          |
+| m             |<img src="7sgAsciiImages/seven_segment_display (77).png" alt="Alt text" style="width:25px;">          |
+| n             |<img src="7sgAsciiImages/seven_segment_display (78).png" alt="Alt text" style="width:25px;">          |
+| o             |<img src="7sgAsciiImages/seven_segment_display (79).png" alt="Alt text" style="width:25px;">          |
+| p             |<img src="7sgAsciiImages/seven_segment_display (80).png" alt="Alt text" style="width:25px;">          |
+| q             |<img src="7sgAsciiImages/seven_segment_display (81).png" alt="Alt text" style="width:25px;">          |
+| r             |<img src="7sgAsciiImages/seven_segment_display (82).png" alt="Alt text" style="width:25px;">          |
+| s             |<img src="7sgAsciiImages/seven_segment_display (84).png" alt="Alt text" style="width:25px;">          |
+| t             |<img src="7sgAsciiImages/seven_segment_display (85).png" alt="Alt text" style="width:25px;">          |
+| u             |<img src="7sgAsciiImages/seven_segment_display (86).png" alt="Alt text" style="width:25px;">          |
+| v             |<img src="7sgAsciiImages/seven_segment_display (86).png" alt="Alt text" style="width:25px;">          |
+| w             |<img src="7sgAsciiImages/seven_segment_display (87).png" alt="Alt text" style="width:25px;">          |
+| x             |<img src="7sgAsciiImages/seven_segment_display (88).png" alt="Alt text" style="width:25px;">          |
+| y             |<img src="7sgAsciiImages/seven_segment_display (89).png" alt="Alt text" style="width:25px;">          |
+| z             |<img src="7sgAsciiImages/seven_segment_display (90).png" alt="Alt text" style="width:25px;">          |
+| {             |<img src="7sgAsciiImages/seven_segment_display (83).png" alt="Alt text" style="width:25px;">          |
+| \|            |<img src="7sgAsciiImages/seven_segment_display (83).png" alt="Alt text" style="width:25px;">          |
+| }             |<img src="7sgAsciiImages/seven_segment_display (83).png" alt="Alt text" style="width:25px;">          |
+| ~             |<img src="7sgAsciiImages/seven_segment_display (83).png" alt="Alt text" style="width:25px;">          |
