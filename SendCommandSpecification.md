@@ -24,7 +24,7 @@ Firmware Version -について記述
 
 # 送信コマンド一覧
 コマンドを送信する際は余計なスペースなどを含めないでください。  
-連続でデータを送信する場合は改行ごとに最低1ms以上の間隔を空けてください。  
+連続でデータを送信する場合は改行ごとに数ミリ秒の間隔を空けてください。  
 確実に行うのであればAD7SGPRからのアンサーバックを確認してからの送信をおすすめします。
 
 | コード | 機能 |
@@ -137,9 +137,9 @@ AD7SGPRに送信した文字列を7セグメントディスプレイに表示す
 | 送信コード | AD7SGPR返信コード| AD7SGPR7セグ表示 | 概要 |
 | --- | --- | --- | --- |
 | @7SG0 | rxData:@7SG0<br>7sgOff | (裏面LED弱く点灯) | 7セグ非点灯モード | 
-| @7SG1 | rxData:@7SG1<br>7sgOn | (裏面LED強く点灯) | 7セグ点灯モード  |
+| @7SG1 | rxData:@7SG1<br>7sgOn<br>復帰内容 | (裏面LED強く点灯) | 7セグ点灯モード  |
 |||||
-| @7SG2 | rxData:@7SGx<br>7sgOn | (裏面LED強く点灯) | @7SG0以外の指示であれば点灯モードに入ります。|
+| @7SG2 | rxData:@7SGx<br>7sgOn<br>復帰内容 | (裏面LED強く点灯) | @7SG0以外の指示であれば点灯モードに入ります。|
 
 
 ---
@@ -155,10 +155,10 @@ AD7SGPRに送信した文字列を7セグメントディスプレイに表示す
 | @BRI1 | rxData:@BRI1<br>brightness: 1 | (輝度1) | |
 | @BRI2 | rxData:@BRI2<br>brightness: 2 | (輝度2) | |
 | @BRI3 | rxData:@BRI3<br>brightness: 3 | (輝度3) | |
-| @BRI4 | rxData:@BRI4<br>Brightness: 4 | (輝度4) | |
-| @BRI5 | rxData:@BRI5<br>Brightness: 5 | (輝度5) | |
-| @BRI6 | rxData:@BRI6<br>Brightness: 6 | (輝度6) | |
-| @BRI7 | rxData:@BRI7<br>Brightness: 7 | (輝度7) | |
+| @BRI4 | rxData:@BRI4<br>brightness: 4 | (輝度4) | |
+| @BRI5 | rxData:@BRI5<br>brightness: 5 | (輝度5) | |
+| @BRI6 | rxData:@BRI6<br>brightness: 6 | (輝度6) | |
+| @BRI7 | rxData:@BRI7<br>brightness: 7 | (輝度7) | |
 |||||
 | @BRI8 | rxData:@BRIx<br>E4: Brightness out of range || エラーコード:輝度が0-7で指定されていない|
 
