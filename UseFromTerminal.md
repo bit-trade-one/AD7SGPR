@@ -14,9 +14,8 @@
 4.設定・シリアルポートを開く  <br>
 <img src="https://github.com/bit-trade-one/AD7SGPR/assets/85532743/27d9240a-b171-4218-8af4-52b588967894" alt="image"><br><br>
 
-5.ボーレートを115200、送信遅延を1ミリ秒以上にして現在の接続を再設定を押す  <br>
-<img src="https://github.com/bit-trade-one/AD7SGPR/assets/85532743/f834b7fb-7da8-4252-84b4-da48acdf92d8" alt="image"><br><br>
-
+5.ボーレートを115200、送信遅延を数ミリ秒以上にして現在の接続を再設定を押す  <br>
+<img src="https://github.com/bit-trade-one/AD7SGPR/assets/85532743/9296327e-bd0f-4b01-b02b-fc5ab5ba1d6d" alt="image"><br><br>
 
 6.AD7SGPRに送る文字を入力していく(エンターを押して応答があるまで何も表示されません。)<br>
 送信できるコマンドについては[こちら](SendCommandSpecification.md)を参照ください。<br>
