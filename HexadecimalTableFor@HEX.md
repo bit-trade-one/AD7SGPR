@@ -1,9 +1,5 @@
 # @HEX用16進数の表
 
-![セグメント割当](https://github.com/bit-trade-one/AD7SGPR-SCWA/assets/85532743/ef28a74a-37e0-4872-a17f-20ae382e3b21)
-
-下記表「セグメント点灯」テキストによる<a href="https://t-oda-bto.github.io/7sgSimWebApp/" target="_blank">点灯確認ページ</a>
-
 | @HEX用16進数 | セグメント点灯              |
 | ------------ | --------------------------- |
 | 00           | (無点灯)                    |
