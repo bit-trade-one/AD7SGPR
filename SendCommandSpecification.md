@@ -16,6 +16,7 @@ Firmware Version -について記述
   - [@CLR](#clr)
   - [@ANI](#ani)
   - [@7SG](#7sg)
+  - [@SGR](#sgr)
   - [@BRI](#bri)
   - [@BRR](#brr)
  - [エラーコード一覧](#エラーコード一覧)
@@ -144,6 +145,20 @@ AD7SGPRに送信した文字列を7セグメントディスプレイに表示す
 
 ---
 
+## @SGR
+[送信コマンド一覧へ戻る](#送信コマンド一覧)  
+
+現在の7セグメントディスプレイの表示モードをを返します。
+
+| 送信コード | AD7SGPR返信コード| AD7SGPR7セグ表示 | 概要 |
+| --- | --- | --- | --- |
+| @SGR | rxData:@SGR<br>7segmentsdisplay is ON mode | | 現在ONモード | 
+| @SGR | rxData:@SGR<br>7segmentsdisplay is OFF mode | | 現在OFFモード  |
+
+
+
+---
+
 ## @BRI
 [送信コマンド一覧へ戻る](#送信コマンド一覧)  
 
@@ -151,14 +166,14 @@ AD7SGPRに送信した文字列を7セグメントディスプレイに表示す
 
 | 送信コード | AD7SGPR返信コード| AD7SGPR7セグ表示 | 概要 |
 | --- | --- | --- | --- |
-| @BRI0 | rxData:@BRI0<br>brightness: 0 | (輝度0) | |
-| @BRI1 | rxData:@BRI1<br>brightness: 1 | (輝度1) | |
-| @BRI2 | rxData:@BRI2<br>brightness: 2 | (輝度2) | |
-| @BRI3 | rxData:@BRI3<br>brightness: 3 | (輝度3) | |
-| @BRI4 | rxData:@BRI4<br>brightness: 4 | (輝度4) | |
-| @BRI5 | rxData:@BRI5<br>brightness: 5 | (輝度5) | |
-| @BRI6 | rxData:@BRI6<br>brightness: 6 | (輝度6) | |
-| @BRI7 | rxData:@BRI7<br>brightness: 7 | (輝度7) | |
+| @BRI0 | rxData:@BRI0<br>brightness: 0 || 輝度0 | 
+| @BRI1 | rxData:@BRI1<br>brightness: 1 || 輝度1 | 
+| @BRI2 | rxData:@BRI2<br>brightness: 2 || 輝度2 | 
+| @BRI3 | rxData:@BRI3<br>brightness: 3 || 輝度3 | 
+| @BRI4 | rxData:@BRI4<br>brightness: 4 || 輝度4 | 
+| @BRI5 | rxData:@BRI5<br>brightness: 5 || 輝度5 | 
+| @BRI6 | rxData:@BRI6<br>brightness: 6 || 輝度6 | 
+| @BRI7 | rxData:@BRI7<br>brightness: 7 || 輝度7 | 
 |||||
 | @BRI8 | rxData:@BRIx<br>E4: Brightness out of range || エラーコード:輝度が0-7で指定されていない|
 
