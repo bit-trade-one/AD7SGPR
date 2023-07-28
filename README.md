@@ -1,7 +1,7 @@
-# AD7SGPR
+# AD7SGPR USBコンパクト7セグディスプレイ「Nanapo」
 ## サポートトップ
 
-シリアル通信で文字列を送るだけで値を表示できる７セグメントディスプレイ AD7SGPRのリポジトリです。   
+シリアル通信で文字列を送るだけで値を表示できる７セグメントディスプレイ Nanapoのリポジトリです。   
 [サンプルWEBApp](#ad7sgpr表示用サンプルweb-app)や[ターミナルソフト](#ターミナルソフトtera-termからの使い方)から7セグの表示を制御できます。  
 
 <img src="https://github.com/bit-trade-one/AD7SGPR/assets/85532743/12f146fd-c330-4e64-a72a-60c566ce7d9e"
@@ -50,6 +50,7 @@ AD7SGPRは本体ボタン操作と、シリアル経由のコマンドによる2
 
 ## 使用例
 - [(Qiita)東京の気温を現実の7セグで表示するWEBAppをGPT-4と作る](https://qiita.com/T-Oda-BTO/private/9eaa449083883b6a4b0d)
+- [(Qiita)Nanapoをデジタル時計にするPythonコード](https://qiita.com/T-Oda-BTO/items/bc6a39f576ad66001801)
 
 ---
 <br><br>
