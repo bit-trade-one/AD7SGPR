@@ -48,10 +48,12 @@ AD7SGPRは本体ボタン操作と、シリアル経由のコマンドによる2
 - [製品HPリンク](http://bit-trade-one.co.jp/)
 - [Q&A](FAQ.md)
 
-## 使用例
+## 使用例・メディア掲載
 - [(Qiita)東京の気温を現実の7セグで表示するWEBAppをGPT-4と作る](https://qiita.com/T-Oda-BTO/private/9eaa449083883b6a4b0d)
 - [(Qiita)Nanapoをデジタル時計にするPythonコード](https://qiita.com/T-Oda-BTO/items/bc6a39f576ad66001801)
-
+### 外部
+- [(Qiita)(@jksoft(Junichi Katsu)様)７セグディスプレイ「Nanapo」用のノードを作って、ささっと公開](https://qiita.com/jksoft/items/f54b17f832f0e4bd71af)
+- [(ascii.jp様)7セグ表示が簡単に！ 任意の英数字を表示できる7セグLEDディスプレーが発売](https://ascii.jp/elem/000/004/148/4148634/)
 ---
 <br><br>
 
