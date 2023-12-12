@@ -54,6 +54,7 @@ AD7SGPRは本体ボタン操作と、シリアル経由のコマンドによる2
 ### 外部
 - [(Qiita)(@jksoft(Junichi Katsu)様)７セグディスプレイ「Nanapo」用のノードを作って、ささっと公開](https://qiita.com/jksoft/items/f54b17f832f0e4bd71af)
 - [(ascii.jp様)7セグ表示が簡単に！ 任意の英数字を表示できる7セグLEDディスプレーが発売](https://ascii.jp/elem/000/004/148/4148634/)
+- [(note)(shi3z様)何に使うかわからないがなんだか楽しい7セグLEDディスプレイNanapoを買った](https://note.com/shi3zblog/n/n1a79afdd8072)
   
 ---
 <br><br>
