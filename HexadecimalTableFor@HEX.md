@@ -114,22 +114,22 @@
 | 6D           | a, d, e, f, g               |
 | 6E           | b, d, e, f, g               |
 | 6F           | a, b, d, e, f, g            |
-| 70           | c, d, e, f, g               |
-| 71           | a, c, d, e, f, g            |
-| 72           | b, c, d, e, f, g            |
-| 73           | a, b, c, d, e, f, g         |
-| 74           | c, f, g                     |
-| 75           | a, c, f, g                  |
-| 76           | b, c, f, g                  |
-| 77           | a, b, c, f, g               |
-| 78           | d, f, g                     |
-| 79           | a, d, f, g                  |
-| 7A           | b, d, f, g                  |
-| 7B           | a, b, d, f, g               |
-| 7C           | c, d, f, g                  |
-| 7D           | a, c, d, f, g               |
-| 7E           | b, c, d, f, g               |
-| 7F           | a, b, c, d, e, f, g         |
+| 70           | e, f, g                     |
+| 71           | a, e, f, g                  |
+| 72           | b, e, f, g                  |
+| 73           | a, b, e, f, g               |
+| 74           | c, e, f, g                  |
+| 75           | a, c, e, f, g               |
+| 76           | b, c, e, f, g               |
+| 77           | a, b, c, e, f, g            |
+| 78           | d, e, f, g                  |
+| 79           | a, d, e, f, g               |
+| 7A           | b, d, e, f, g               |
+| 7B           | a, b, d, e, f, g            |
+| 7C           | c, d, e, f, g               |
+| 7D           | a, c, d, e, f, g            |
+| 7E           | b, c, d, e, f, g            |
+| 7F           | a, b, c, d, e, f, g  
 | 80           | D.P (小数点)                |
 | 81           | a, D.P                      |
 | 82           | b, D.P                      |
